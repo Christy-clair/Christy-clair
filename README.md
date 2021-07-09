@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Christy-clair
 - 👀 I’m interested in fullstack development!
-- 🌱 I’m currently learning JavaScript!
-- 📫 How to reach me: https://portfolio-christy.netlify.app/
- 
+- 🌱 I’m currently learning React.js framework!
+- 📫 How to reach me: https://christyclair-portfolio.netlify.app/
